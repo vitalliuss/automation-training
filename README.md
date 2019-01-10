@@ -1,3 +1,4 @@
+
 Automation Training
 =======
 
@@ -54,3 +55,8 @@ Automation Training
 ## Работа в EPAM
 
 Участники прошедшие обучение в лаборатории получают job offer от компании и становятся полноценными сотрудниками отдела автоматизации EPAM.
+
+## Остались вопросы?
+
+Вы можете обсудить детали тренинга в группе пользователей в gitter: https://gitter.im/automation_training/community . Или написать нам на [AskAutomationTraining@epam.com](mailto:AskAutomationTraining@epam.com?Subject=AskAutomationTraining). Успехов! 
+
