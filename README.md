@@ -15,6 +15,7 @@ Automation Training
 ## Уровень 1
 
 Для того чтобы пройти уровень 1 вам необходимо зарегистрироваться на платформе [LEARN](www.learn.by) используя любой удобный способ, например google аккаунт. 
+
 ![LEARN login](https://raw.githubusercontent.com/vitalliuss/automation-training/develop/pictures/LEARN_login.png)
 После регистрации можно приступать. Мы рекомендуем проходить тренинги в следующем порядке:
 * DevTestOps
