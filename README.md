@@ -8,7 +8,7 @@ Automation Training
 
 ## Регистрация
 
-Начните с регистрации на тренинг по автоматизации на [training.by](www.training.by). Важно не забыть свое имя и фамилию на латинице (которые вы использовали при регистрации) - они понадобятся в дальнейшем. ![training.by](https://raw.githubusercontent.com/vitalliuss/automation-training/develop/pictures/training_by.png)
+Начните с регистрации на тренинг по автоматизации на [training.by](www.training.by). Важно не забыть свое имя и фамилию на латинице (которые вы использовали при регистрации) - они понадобятся в дальнейшем. ![training.by](https://raw.githubusercontent.com/vitalliuss/automation-training/master/pictures/training_by.png)
 
 
 
@@ -16,7 +16,7 @@ Automation Training
 
 Для того чтобы пройти уровень 1 вам необходимо зарегистрироваться на платформе [LEARN](www.learn.by) используя любой удобный способ, например google аккаунт. 
 
-![LEARN login](https://raw.githubusercontent.com/vitalliuss/automation-training/develop/pictures/LEARN_login.png)
+![LEARN login](https://raw.githubusercontent.com/vitalliuss/automation-training/master/pictures/LEARN_login.png)
 После регистрации можно приступать. Мы рекомендуем проходить тренинги в следующем порядке:
 * DevTestOps
 * Clean Code
@@ -25,7 +25,7 @@ Automation Training
 * Unit Testing
 * WebDriver
 
-![stage 1 scope](https://raw.githubusercontent.com/vitalliuss/automation-training/develop/pictures/stage_1_scope.png)
+![stage 1 scope](https://raw.githubusercontent.com/vitalliuss/automation-training/master/pictures/stage_1_scope.png)
 
 В каждом тренинге есть практические задания. Вам необходимо создать закрытый репозиторий для хранения результата выполнения задач. Также вам понадобится авторизовать наш ssh ключ для доступа к вашему репозиторию. О том как это сделать можно посмотреть тут: //TODO create video and publish link here
 
@@ -33,13 +33,13 @@ Automation Training
 
 Для того чтобы пройти уровень 2 вам понадобится помощник в виде опытного инженера по автоматизации. Чтобы получить доступ к бронированию времени этого человека вам понадобится пройти две проверки. Первая это проверка практических задач из уровня 1. А вторая - это проверка английского языка рекрутером компании. 
 
-![stage 2 flow](https://raw.githubusercontent.com/vitalliuss/automation-training/develop/pictures/stage_2_apply_flow.png)
+![stage 2 flow](https://raw.githubusercontent.com/vitalliuss/automation-training/master/pictures/stage_2_apply_flow.png)
 
 Заказ проверки осуществляется через регистрацию в [Microsoft Form](https://forms.office.com/Pages/ResponsePage.aspx?id=0HIbtJ9OJkyKaflJ82fJHZRmbJdCdYpGmTbkU6pq5RZURUpWR0pGQTlEMEhXTlBMSllHRjVNVUxWNS4u). Вот тут вам понадобится ввести свои имя и фамилию на латинице и указать адрес git репозитория с выполненными задачами из уровня 1. 
 
 В случае успешного прохождения проверок вы получите доступ к таблице с временными слотами для code review. Как только у вас будет готовая для проверки работа нужно зарегистрироваться в удобный свободный слот. Дальше остается только встретиться с инженером компании и пройти ревью.
 
-![slots](https://raw.githubusercontent.com/vitalliuss/automation-training/develop/pictures/slots.png)
+![slots](https://raw.githubusercontent.com/vitalliuss/automation-training/master/pictures/slots.png)
 
 Порядок прохождения уровня 2 такой:
 * Framework
@@ -47,7 +47,7 @@ Automation Training
 * API Automation
 * Mobile Automation
 
-![stage 2 scope](https://raw.githubusercontent.com/vitalliuss/automation-training/develop/pictures/stage_2_scope.png)
+![stage 2 scope](https://raw.githubusercontent.com/vitalliuss/automation-training/master/pictures/stage_2_scope.png)
 
 ## А что дальше?
 
