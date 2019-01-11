@@ -34,7 +34,7 @@ Automation Training
 
 ![stage 2 flow](https://raw.githubusercontent.com/vitalliuss/automation-training/develop/pictures/stage_2_apply_flow.png)
 
-Заказ проверки осуществляется через регистрацию в [Google Form](https://goo.gl/forms/bPYs3yARXMiRK0s52). Вот тут вам понадобится ввести свои имя и фамилию на латинице и указать адрес git репозитория с выполненными задачами из уровня 1. 
+Заказ проверки осуществляется через регистрацию в [Microsoft Form](https://forms.office.com/Pages/ResponsePage.aspx?id=0HIbtJ9OJkyKaflJ82fJHZRmbJdCdYpGmTbkU6pq5RZURUpWR0pGQTlEMEhXTlBMSllHRjVNVUxWNS4u). Вот тут вам понадобится ввести свои имя и фамилию на латинице и указать адрес git репозитория с выполненными задачами из уровня 1. 
 
 В случае успешного прохождения проверок вы получите доступ к таблице с временными слотами для code review. Как только у вас будет готовая для проверки работа нужно зарегистрироваться в удобный свободный слот. Дальше остается только встретиться с инженером компании и пройти ревью.
 
