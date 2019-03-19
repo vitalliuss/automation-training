@@ -20,7 +20,9 @@ Automation Training
 ![LEARN login](https://raw.githubusercontent.com/vitalliuss/automation-training/master/pictures/LEARN_login.png)
 
 После регистрации можно приступать. Мы рекомендуем проходить тренинги в следующем порядке:
-* DevTestOps
+* Version Control with Git
+* Maven build tool
+* CI with Jenkins
 * Clean Code
 * Java
 * Testing
