@@ -9,7 +9,7 @@ Automation Training
 
 ## Регистрация
 
-Начните с регистрации на тренинг по автоматизации на [training.by](www.training.by). Важно не забыть свое имя и фамилию на латинице (которые вы использовали при регистрации) - они понадобятся в дальнейшем. ![training.by](https://raw.githubusercontent.com/vitalliuss/automation-training/master/pictures/training_by.png)
+Начните с регистрации на тренинг по автоматизации на [training.by](https://training.by). Важно не забыть свое имя и фамилию на латинице (которые вы использовали при регистрации) - они понадобятся в дальнейшем. ![training.by](https://raw.githubusercontent.com/vitalliuss/automation-training/master/pictures/training_by.png)
 
 
 
