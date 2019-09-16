@@ -37,7 +37,7 @@ Automation Training
 
 Для того чтобы пройти уровень 2 вам понадобится помощник в виде опытного инженера по автоматизации. Чтобы получить доступ к бронированию времени этого человека вам понадобится пройти две проверки. Первая это проверка практических задач из уровня 1. А вторая - это проверка английского языка рекрутером компании. 
 
-![stage 2 flow](https://raw.githubusercontent.com/vitalliuss/automation-training/master/pictures/stage_2_apply_flow.png)
+![stage 2 flow](https://raw.githubusercontent.com/vitalliuss/automation-training/master/pictures/stage_2_apply_flow_new.png)
 
 Заказ проверки осуществляется через регистрацию в [Microsoft Form](https://forms.office.com/Pages/ResponsePage.aspx?id=0HIbtJ9OJkyKaflJ82fJHZRmbJdCdYpGmTbkU6pq5RZURUpWR0pGQTlEMEhXTlBMSllHRjVNVUxWNS4u). Вот тут вам понадобится ввести свои имя и фамилию на латинице и указать адрес git репозитория с выполненными задачами из уровня 1. 
 
