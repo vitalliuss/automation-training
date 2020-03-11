@@ -1,5 +1,3 @@
-
-
 Automation Training
 =======
 
@@ -10,7 +8,6 @@ Automation Training
 ## Как начать учиться
 
 Начните с регистрации на тренинг по автоматизации на [training.by](https://training.by). Важно не забыть свое имя и фамилию на латинице (которые вы использовали при регистрации) - они понадобятся в дальнейшем. ![training.by](https://raw.githubusercontent.com/vitalliuss/automation-training/master/pictures/training_by.png) В описании тренинга будет указана ссылка на инструмент и видео с прохождением курса. Успехов!
-
 
 ## А что дальше?
 
