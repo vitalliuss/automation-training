@@ -227,7 +227,7 @@ Steps
 
 При выполнении задания необходимо использовать возможности Selenium WebDriver, юнит-тест фреймворка и концепцию Page Object.
 
-# Steps
+Steps
 1. Открыть https://cloud.google.com/ 
 2. Нажав кнопку поиска по порталу вверху страницы, ввести в поле поиска"Google Cloud Platform Pricing Calculator"
 3. Запустить поиск, нажав кнопку поиска.
