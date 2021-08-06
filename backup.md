@@ -297,7 +297,7 @@ Steps
 8. Проверить соответствие данных следующих полей: VM Class, Instance type, Region, local SSD, commitment term
 9. Проверить что сумма аренды в месяц совпадает с суммой получаемой при ручном прохождении теста. 
 
-### WebDriver Google Cloud calculator with 10minute mail validation
+### WebDriver Google Cloud calculator with mail validation
 
 При выполнении задания необходимо использовать возможности Selenium WebDriver, юнит-тест фреймворка и концепцию Page Object.
 
@@ -321,10 +321,11 @@ Steps
     * Commited usage: 1 Year
 7. Нажать Add to Estimate
 8. Выбрать пункт EMAIL ESTIMATE
-9. В новой вкладке открыть https://10minutemail.com или аналогичный сервис для генерации временных email'ов
-10. Скопировать почтовый адрес сгенерированный в 10minutemail
+9. В новой вкладке открыть https://yopmail.com/ или аналогичный сервис для генерации временных email'ов
+10. Скопировать почтовый адрес сгенерированный в yopmail.com
 11. Вернуться в калькулятор, в поле Email ввести адрес из предыдущего пункта
 12. Нажать SEND EMAIL
+13. Дождаться письма с рассчетом стоимости и проверить что Total Estimated Monthly Cost в письме совпадает с тем, что отображается в калькуляторе
 
 
 ## Software Development Models and Methodologies
